@@ -1,0 +1,27 @@
+{
+  "name": "koishi-plugin-random-dog",
+  "description": "Get a random dog",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "author": "cn-traveler <cn-traveler@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CN-traveler/koishi-plugin-random-dog.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "bot",
+    "dog",
+    "koishi",
+    "plugin",
+    "random"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.11.1"
+  }
+}
